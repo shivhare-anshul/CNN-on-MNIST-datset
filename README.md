@@ -1,7 +1,11 @@
 # CNN-on-MNIST-datset
+Directly Run the python files.
+You might get the problem for paths, so please do change paths in code accordingly.
 CNN on MNIST dataset. The data is there in the repository. Also, I uploaded 2 different Implementations, One of them is using PyTorch.
 
-MNIST data - Download the dataset of hand-written digits
+
+
+Problem Statement : MNIST data - Download the dataset of hand-written digits
 http : //yann.lecun.com/exdb/mnist/
 containing 10 classes. [Reduce the number of samples in training data if your computing
 powers are limited as required by random subsampling]. The Keras package is needed for
